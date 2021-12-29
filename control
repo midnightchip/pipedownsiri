@@ -1,0 +1,9 @@
+Package: me.midnightchips.pipedownsiri
+Name: Pipe Down Siri!
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make Siri Quite
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
